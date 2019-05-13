@@ -7,31 +7,56 @@ from fuzzywuzzy import fuzz
 
 
 def start(bot, update):
-    bot.send_message(update.message.from_user.id, text="Welcome, this is the Frantic Rule Bot. Simply type /rule [name] and I will explain you how this card works.")
+    bot.send_message(update.message.from_user.id, text="Welcome, this is the Frantic Rule Bot. Simply type /rule &lt;command name&gt; and I will explain you how this card works.")
 
 
 def rule(bot, update):
-    with open("raw_rules.txt") as f:
-        raw = f.read().split("\n\n")
-        rules = {}
-        for r in raw:
-            title, rule = r.split("\n")
-            rules[title.lower()] = rule
-    query = update.message.text.lower()
-    # Remove "/vote " so that we only get command argument
-    query = query.replace("/rule ", "")
+    try:
+        with open("raw_rules.txt") as f:
+            raw = f.read().split("\n\n")
+            rules = {}
+            for r in raw:
+                title, rule = r.split("\n")
+                rules[title.lower()] = rule
+        query = update.message.text.lower()
+        # Remove "/vote " so that we only get command argument
+        if query == "/rule":
+            out = "Usage: /rule &lt;command name&gt;\nAvailable rules:\n"
+            for rule in rules.keys():
+                out += "\n - <code>{}</code>".format(rule.title())
+            out += "\n\n<i>(click rule name to copy it)</i>"
+        else:
+            query = query.replace("/rule ", "")
 
-    result = process.extractOne(query, list(rules.keys()))[0]
-    print(result)
+            results = process.extract(query, list(rules.keys()), limit=3, scorer=fuzz.ratio)
+            if results[0][1] < 70:
+                out = "Oops, I'm not sure which rule you mean. Possible options are:"
+                for result in results:
+                    out += "\n - <code>{}</code>".format(result[0].title())
+                out += "\n\n<i>(click rule name to copy it)</i>"
+            else:
+                print(results[0])
 
-    bot.send_message(update.message.from_user.id,
-                     text=rules[result])
+                title = results[0][0].title()
+                rule = rules[results[0][0]]
+
+                out = "<b>{}</b>\n{}".format(title, rule)
+
+        bot.send_message(update.message.from_user.id,
+                         text=out,
+                         parse_mode=telegram.ParseMode.HTML)
+
+    except Exception as e:
+        print("Exception: ", e)
 
 
 # This is good practice: this code only gets run when we run DecidoBot.py,
 # but it does not get executed if we were to import some functions from it
 if __name__ == "__main__":
-    updater = Updater(token="*")
+    with open("token.txt") as f:
+        token = f.read().strip()
+    updater = Updater(token=token)
     dispatcher = updater.dispatcher
     dispatcher.add_handler(CommandHandler('rule', rule))
+    dispatcher.add_handler(CommandHandler('start', start))
     updater.start_polling()
