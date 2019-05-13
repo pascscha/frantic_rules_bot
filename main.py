@@ -7,7 +7,9 @@ from fuzzywuzzy import fuzz
 
 
 def start(bot, update):
-    bot.send_message(update.message.from_user.id, text="Welcome, this is the Frantic Rule Bot. Simply type /rule &lt;command name&gt; and I will explain you how this card works.")
+    bot.send_message(update.message.from_user.id,
+                     text="Welcome, this is the Frantic Rule Bot. Simply type <code>/rule &lt;command name&gt;</code> and I will explain you how this card works. Type <code>/rule</code> To get a list of all available rules.",
+                     parse_mode=telegram.ParseMode.HTML)
 
 
 def rule(bot, update):
@@ -23,7 +25,7 @@ def rule(bot, update):
         if query == "/rule":
             out = "Usage: /rule &lt;command name&gt;\nAvailable rules:\n"
             for rule in rules.keys():
-                out += "\n - <code>{}</code>".format(rule.title())
+                out += "\n - <code>/rule {}</code>".format(rule.title())
             out += "\n\n<i>(click rule name to copy it)</i>"
         else:
             query = query.replace("/rule ", "")
@@ -32,7 +34,7 @@ def rule(bot, update):
             if results[0][1] < 70:
                 out = "Oops, I'm not sure which rule you mean. Possible options are:"
                 for result in results:
-                    out += "\n - <code>{}</code>".format(result[0].title())
+                    out += "\n - <code>/rule {}</code>".format(result[0].title())
                 out += "\n\n<i>(click rule name to copy it)</i>"
             else:
                 print(results[0])
@@ -50,6 +52,12 @@ def rule(bot, update):
         print("Exception: ", e)
 
 
+def pdf(bot, update):
+    bot.send_document(update.message.from_user.id,
+                      document="https://rulefactory.ch/wp-content/uploads/2019/02/Regeln_Gesamtuebersicht.pdf",
+                      caption="Here you go :)")
+
+
 # This is good practice: this code only gets run when we run DecidoBot.py,
 # but it does not get executed if we were to import some functions from it
 if __name__ == "__main__":
@@ -58,5 +66,6 @@ if __name__ == "__main__":
     updater = Updater(token=token)
     dispatcher = updater.dispatcher
     dispatcher.add_handler(CommandHandler('rule', rule))
+    dispatcher.add_handler(CommandHandler('pdf', pdf))
     dispatcher.add_handler(CommandHandler('start', start))
     updater.start_polling()

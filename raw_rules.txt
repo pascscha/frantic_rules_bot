@@ -1,107 +1,107 @@
 ZIEL
-Ziel des Spiels ist es, in jeder Spielrunde die eigenen Hand-karten so schnell wie möglich abzulegen. Sofern ein Spieler alle Karten abgelegt hat, zählen die verbliebenen Spieler die Punkte auf ihrer Hand zusammen. Hat ein Spieler das vereinbarte Punktelimit erreicht, gewinnt der Spieler mit der niedrigsten Punktzahl.
+Ziel des Spiels ist es, in jeder Spielrunde die eigenen Handkarten so schnell wie möglich abzulegen. Sofern ein Spieler alle Karten abgelegt hat, zählen die verbliebenen Spieler die Punkte auf ihrer Hand zusammen. Hat ein Spieler das vereinbarte Punktelimit erreicht, gewinnt der Spieler mit der niedrigsten Punktzahl.
 
 VORBEREITUNG & ABLAUF
-Zu Beginn des Spiels werden die Spielkarten gemischt und alle Spieler erhalten sieben Karten. Die restlichen Karten werden verdeckt in die Mitte gelegt und bilden den Karten-stapel. Die Ereigniskarten werden ebenfalls gemischt und verdeckt neben den Kartenstapel gelegt.Die oberste Karte des Kartenstapels wird aufgedeckt und daneben gelegt, diese bildet den Ablagestapel. Diese Karte startet das Spiel und wird so behandelt, als hätte sie der Kartengeber gespielt. Die Spielrichtung verläuft im Gegenuhrzeigersinn. Im Spiel darf jeweils Zahl auf Zahl, Farbe auf Farbe, oder auch Symbol auf Symbol gelegt werden (z.B. «Skip» blau auf «Skip» rot). Die farbneutralen (bunten) Karten können auf jede Karte gespielt werden. Der Spieler, welcher an der Reihe ist, kann entweder eine Karte spielen oder vom Stapel ziehen. Wenn keine Karte gespielt werden kann, muss eine gezogen werden.Der Spieler hat allerdings die Möglichkeit, eine spielbare Karte nicht zu spielen, dafür muss er eine Karte ziehen. Er darf, wenn möglich, die gezogene Karte – oder auch eine andere spielbare Karte aus seiner Hand – sofort spielen.
+Zu Beginn des Spiels werden die Spielkarten gemischt und alle Spieler erhalten sieben Karten. Die restlichen Karten werden verdeckt in die Mitte gelegt und bilden den Kartenstapel. Die Ereigniskarten werden ebenfalls gemischt und verdeckt neben den Kartenstapel gelegt.Die oberste Karte des Kartenstapels wird aufgedeckt und daneben gelegt, diese bildet den Ablagestapel. Diese Karte startet das Spiel und wird so behandelt, als hätte sie der Kartengeber gespielt. Die Spielrichtung verläuft im Gegenuhrzeigersinn. Im Spiel darf jeweils Zahl auf Zahl, Farbe auf Farbe, oder auch Symbol auf Symbol gelegt werden (z.B. «Skip» blau auf «Skip» rot). Die farbneutralen (bunten) Karten können auf jede Karte gespielt werden. Der Spieler, welcher an der Reihe ist, kann entweder eine Karte spielen oder vom Stapel ziehen. Wenn keine Karte gespielt werden kann, muss eine gezogen werden.Der Spieler hat allerdings die Möglichkeit, eine spielbare Karte nicht zu spielen, dafür muss er eine Karte ziehen. Er darf, wenn möglich, die gezogene Karte – oder auch eine andere spielbare Karte aus seiner Hand – sofort spielen.
 
 ENDE EINER RUNDE
-Die Runde wird sofort beendet, wenn- einer der Spieler alle seine Handkarten abgelegt hat - der Kartenstapel aufgebraucht ist und ein Spieler eine oder mehrere Karten ziehen müssteWenn diese Situation während eines Ereignisses stattfindet, wird dieses noch so gut wie möglich zu Ende gespielt. Danach wird die Runde beendet.Es kann sein, dass durch eine Ereigniskarte mehrere Spieler gleichzeitig die Runde beenden.Wird die Runde beendet, zählen die Mitspieler ihre verblieb-enen Karten zusammen und addieren sie zu den bereits vorhandenen Punkten. (Siehe Punkte) Der Spieler, welcher in dieser Runde die höchste Punkt zahl erreicht hat, mischt und verteilt als Nächstes die Karten. Ein anderer Mitspieler mischt die Ereigniskarten.
+Die Runde wird sofort beendet, wenn- einer der Spieler alle seine Handkarten abgelegt hat - der Kartenstapel aufgebraucht ist und ein Spieler eine oder mehrere Karten ziehen müssteWenn diese Situation während eines Ereignisses stattfindet, wird dieses noch so gut wie möglich zu Ende gespielt. Danach wird die Runde beendet.Es kann sein, dass durch eine Ereigniskarte mehrere Spieler gleichzeitig die Runde beenden.Wird die Runde beendet, zählen die Mitspieler ihre verbliebenen Karten zusammen und addieren sie zu den bereits vorhandenen Punkten. (Siehe Punkte) Der Spieler, welcher in dieser Runde die höchste Punkt zahl erreicht hat, mischt und verteilt als Nächstes die Karten. Ein anderer Mitspieler mischt die Ereigniskarten.
 
 ENDE DES SPIELS
-Es werden so viele Runden gespielt, bis ein Spieler das Punk-temaximum erreicht:Empfehlungenkurz mittel lang2 – 4 Spieler 137 Pt. 154 Pt. 179 Pt.5 – 8 Spieler 113 Pt. 137 Pt. 154 Pt.ungefähre Spieldauer~35 min ~60 min ~90 minEs kann auch ein anderes Maximum mit den Mitspielern vere-inbart werden. Grundätzlich gilt: Je mehr Spieler, desto tiefer sollte das Maximum gesetzt werden.Aufgrund der Ereigniskarten kann die Spieldauer stark variier-en. Der Spieler, der zu besagtem Zeitpunkt die wenigsten Punkte aufweist, gewinnt.
+Es werden so viele Runden gespielt, bis ein Spieler das Punktemaximum erreicht:Empfehlungenkurz mittel lang2 – 4 Spieler 137 Pt. 154 Pt. 179 Pt.5 – 8 Spieler 113 Pt. 137 Pt. 154 Pt.ungefähre Spieldauer~35 min ~60 min ~90 minEs kann auch ein anderes Maximum mit den Mitspielern vereinbart werden. Grundätzlich gilt: Je mehr Spieler, desto tiefer sollte das Maximum gesetzt werden.Aufgrund der Ereigniskarten kann die Spieldauer stark variieren. Der Spieler, der zu besagtem Zeitpunkt die wenigsten Punkte aufweist, gewinnt.
 
 PUNKTE
 Alle Zahlenkarten, sowohl farbige als auch schwarze zählen ihrer Zahl entsprechend 1 bis 9 Punkte. Die Spezialkarten zählen 7 Punkte. Ausnahme bildet die «Fuck You»-Karte, diese zählt 42 Punkte.
 
 FANTASTIC FOUR
-5 Stück (farbneutral)Der Urheber dieser Karte bestimmt eine Person, die vier Karten vom Stapel ziehen muss. Er hat aber auch die Möglichkeit, die vier Karten unter mehreren Spielern beliebig aufzuteilen.» Farb- ODER Zahlenwünscher!
+Der Urheber dieser Karte bestimmt eine Person, die vier Karten vom Stapel ziehen muss. Er hat aber auch die Möglichkeit, die vier Karten unter mehreren Spielern beliebig aufzuteilen.» Farb- ODER Zahlenwünscher!
 
 COUNTERATTACK
-4 Stück (farbneutral)Sobald eine Spezialkarte gegen einen Spieler einge-setzt wird, kann der Betroffene diese Karte reinwer-fen. Der Angriff wird annulliert und der Urheber von «Counterattack» kann den entsprechenden Effekt selbst ausführen. Das Ziel ist dabei frei wählbar. Die Spielrunde geht danach bei dem Spieler weiter, der die gekonterte Spezialkarte gespielt hat.Wichtig: Es ist auch möglich einen bereits abge-wehrten Angriff mit einem weiteren «Counterat-tack» erneut abzuwehren.» Und/oder Farbwünscher!
+Sobald eine Spezialkarte gegen einen Spieler eingesetzt wird, kann der Betroffene diese Karte reinwerfen. Der Angriff wird annulliert und der Urheber von «Counterattack» kann den entsprechenden Effekt selbst ausführen. Das Ziel ist dabei frei wählbar. Die Spielrunde geht danach bei dem Spieler weiter, der die gekonterte Spezialkarte gespielt hat.Wichtig: Es ist auch möglich einen bereits abgewehrten Angriff mit einem weiteren «Counterattack» erneut abzuwehren.» Und/oder Farbwünscher!
 
 EQUALITY
-2 Stück (farbneutral)Der Urheber bestimmt einen Mitspieler der weniger Karten auf der Hand hält, als er selbst. Dieser muss seine Handkarten auf dieselbe Anzahl ergänzen.» Und/oder Farbwünscher!
+Der Urheber bestimmt einen Mitspieler der weniger Karten auf der Hand hält, als er selbst. Dieser muss seine Handkarten auf dieselbe Anzahl ergänzen.» Und/oder Farbwünscher!
 
 INEQUALITY
- 2 Stück (farbneutral)Wer «Inequality» spielt, kann ein Opfer bestimmen, welches so lange von ihm/ihr verdeckt Karten ziehen muss, bis dieses mehr Karten auf der Hand hält.» Und/oder Farbwünscher!
+Wer «Inequality» spielt, kann ein Opfer bestimmen, welches so lange von ihm/ihr verdeckt Karten ziehen muss, bis dieses mehr Karten auf der Hand hält.» Und/oder Farbwünscher!
 
 LUCKY BASTARD
- 1 Stück (farbneutral)Diese Karte kann vor dem Aufdecken einer Ereigni-skarte reingeworfen werden. Wer «Lucky Bastard» spielt, ist vor dem Ereignis und seinem Effekt geschützt.» Und/oder Farbwünscher!
+Diese Karte kann vor dem Aufdecken einer Ereigniskarte reingeworfen werden. Wer «Lucky Bastard» spielt, ist vor dem Ereignis und seinem Effekt geschützt.» Und/oder Farbwünscher!
 
 NICE TRY
-1 Stück (farbneutral)Sobald ein Spieler alle seine Karten aus der Hand losgeworden ist und somit die Spielrunde beendet, kann diese Karte sofort reingeworfen werden. Selbst dann, wenn ein Spieler die Karte gerade erst erh-alten hat (bspw. durch «Gift»). Der Spieler, der die Runde beendet hat, muss nun wieder drei Karten ziehen und die Spielrunde geht weiter.Wichtig: Wenn einer oder mehrere Spieler alle ihre Karten gleichzeitig aufgrund einer Ereigniskarte loswerden (bspw. «Recession»), so müssen bei Ausspielen der «Nice Try»-Karte alle Spieler, die keine Handkarten mehr haben, drei Karten ziehen.» Und/oder Farbwünscher!
+Sobald ein Spieler alle seine Karten aus der Hand losgeworden ist und somit die Spielrunde beendet, kann diese Karte sofort reingeworfen werden. Selbst dann, wenn ein Spieler die Karte gerade erst erhalten hat (bspw. durch «Gift»). Der Spieler, der die Runde beendet hat, muss nun wieder drei Karten ziehen und die Spielrunde geht weiter.Wichtig: Wenn einer oder mehrere Spieler alle ihre Karten gleichzeitig aufgrund einer Ereigniskarte loswerden (bspw. «Recession»), so müssen bei Ausspielen der «Nice Try»-Karte alle Spieler, die keine Handkarten mehr haben, drei Karten ziehen.» Und/oder Farbwünscher!
 
 SPECIAL FAVOURS
- 3 Stück (farbneutral)Wer «Special Favours» spielt, kann alle Spe-zialkarten (alles ausser Zahlenkarten) mit einem beliebigen Opfer tauschen.» Und/oder Farbwünscher!
+Wer «Special Favours» spielt, kann alle Spezialkarten (alles ausser Zahlenkarten) mit einem beliebigen Opfer tauschen.» Und/oder Farbwünscher!
 
 SCHWARZE KARTEN
-Zahlen von 1 bis 9Schwarze Karten sind keine Farbenkarten. Sie dürfen nicht aufeinandergelegt werden, sondern können nur auf die gleiche Zahl oder bei Wunsch der entsprechenden Zahl gespielt werden. Schwarz kann nicht als Farbe gewünscht werden.» Setzt ein Ereignis in Kraft! (siehe Ereigniskarten)
+Schwarze Karten sind keine Farbenkarten. Sie dürfen nicht aufeinandergelegt werden, sondern können nur auf die gleiche Zahl oder bei Wunsch der entsprechenden Zahl gespielt werden. Schwarz kann nicht als Farbe gewünscht werden.» Setzt ein Ereignis in Kraft! (siehe Ereigniskarten)
 
 SPEZIALKARTEN
-Die bunten Spezialkarten (farbneutral) können auf jede Karte gespielt werden. Die einfarbigen Spezialkarten können nur bei entsprechender Farbe oder Symbol gelegt werden.Alle Karten, die zusätzlich Farbwünscher sind, können wahl-weise auch nur als Farbwünscher eingesetzt werden. Ohne dabei die zusätzliche Wirkung der Spezialkarte zu entfalten.Wichtig: Ein Spieler kann sich nicht selbst bestrafen.(z.B. sich selbst mit «Fantastic Four» zwei Karten ziehen lassen)
+Die bunten Spezialkarten (farbneutral) können auf jede Karte gespielt werden. Die einfarbigen Spezialkarten können nur bei entsprechender Farbe oder Symbol gelegt werden.Alle Karten, die zusätzlich Farbwünscher sind, können wahlweise auch nur als Farbwünscher eingesetzt werden. Ohne dabei die zusätzliche Wirkung der Spezialkarte zu entfalten.Wichtig: Ein Spieler kann sich nicht selbst bestrafen.(z.B. sich selbst mit «Fantastic Four» zwei Karten ziehen lassen)
 
 2ND CHANCE
-4 Stück (1 pro Farbe)Der Spieler muss auf diese Karte nochmals eine Karte legen. Dabei gelten dieselben Regeln wie im Spiel (Farbe auf Farbe, farbneutrale Spezialkarte, etc.). Sofern der Spieler keine Karte aus seiner Hand legen kann, muss er eine Karte ziehen.
+Der Spieler muss auf diese Karte nochmals eine Karte legen. Dabei gelten dieselben Regeln wie im Spiel (Farbe auf Farbe, farbneutrale Spezialkarte, etc.). Sofern der Spieler keine Karte aus seiner Hand legen kann, muss er eine Karte ziehen.
 
 COLOUR SWAP
-6 Stück (1 pro Farben-Kombi)Kann jeweils auf zwei verschiedene Farben gespielt werden. Es wird somit von der einen zur anderen Farbe gewechselt. (Wird z.B. rot-grün «Colour Swap» auf Grün gelegt, dann geht das Spiel mit Rot weiter).
+Kann jeweils auf zwei verschiedene Farben gespielt werden. Es wird somit von der einen zur anderen Farbe gewechselt. (Wird z.B. rotgrün «Colour Swap» auf Grün gelegt, dann geht das Spiel mit Rot weiter).
 
 EXCHANGE
-4 Stück (1 pro Farbe)Der Urheber dieser Karte gibt einem Spieler seiner Wahl zwei Karten aus seiner Hand und zieht im Gegenzug verdeckt zwei Karten des anderen Spiel-ers.Ausnahme: Wenn der Urheber oder der betreffende Spieler weniger als zwei Karten auf der Hand hält, so werden auch weniger Karten getauscht (z.B. zwei Karten gegen eine). Sollte ein Spieler diese Karte als letzte abwerfen, so muss er trotzdem zwei Karten eines Mitspielers ziehen.
+Der Urheber dieser Karte gibt einem Spieler seiner Wahl zwei Karten aus seiner Hand und zieht im Gegenzug verdeckt zwei Karten des anderen Spielers.Ausnahme: Wenn der Urheber oder der betreffende Spieler weniger als zwei Karten auf der Hand hält, so werden auch weniger Karten getauscht (z.B. zwei Karten gegen eine). Sollte ein Spieler diese Karte als letzte abwerfen, so muss er trotzdem zwei Karten eines Mitspielers ziehen.
 
 GIFT
-8 Stück (2 pro Farbe)Der Urheber dieser Karte gibt einem Mitspieler zwei Karten aus seiner Hand.Ausnahme: Sofern der Urheber nur noch eine Karte auf der Hand hält, kann er auch nur eine Karte weitergeben. Sollte «Gift» als letzte Karte gespielt werden, so muss dennoch ein Ziel definiert werden.
+Der Urheber dieser Karte gibt einem Mitspieler zwei Karten aus seiner Hand.Ausnahme: Sofern der Urheber nur noch eine Karte auf der Hand hält, kann er auch nur eine Karte weitergeben. Sollte «Gift» als letzte Karte gespielt werden, so muss dennoch ein Ziel definiert werden.
 
 SKIP
-4 Stück (1 pro Farbe)Der Spieler, welcher diese Karte spielt, wählt ein-en Spieler aus, der beim nächsten Zug aussetzen muss.Wichtig: Ein Spieler kann erst wieder ausgelassen werden, wenn er bereits ausgesetzt hat.
+Der Spieler, welcher diese Karte spielt, wählt einen Spieler aus, der beim nächsten Zug aussetzen muss.Wichtig: Ein Spieler kann erst wieder ausgelassen werden, wenn er bereits ausgesetzt hat.
 
 THIEF
- 4 Stück (1 pro Farbe)Wer «Thief» spielt, muss einer beliebigen Person in die Handkarten schauen und dieser zwei Karten stehlen.
+Wer «Thief» spielt, muss einer beliebigen Person in die Handkarten schauen und dieser zwei Karten stehlen.
 
 TROUBLEMAKER
- 4 Stück (1 pro Farbe)Es wird sofort eine Ereignis ausgelöst.
+Es wird sofort eine Ereignis ausgelöst.
 
 FUCK YOU
-1 Stück (farbneutral)Wer «Fuck You» auf der Hand hält, darf sie nur ablegen, wenn er inkl. der «Fuck You»-Karte exakt zehn Karten auf der Hand hat. Die Runde geht mit der vor der «Fuck You»-Karte gespielten Karte weiter. Wichtig: Die «Fuck You»-Karte darf durch Spe-zialkarten nur vom Gegner verdeckt ergattert und nicht bewusst an einen Mitspieler weitergegeben werden. Ausnahme: Bei Ereigniskarten darf sie weitergege-ben oder abgelegt werden.
+Wer «Fuck You» auf der Hand hält, darf sie nur ablegen, wenn er inkl. der «Fuck You»-Karte exakt zehn Karten auf der Hand hat. Die Runde geht mit der vor der «Fuck You»-Karte gespielten Karte weiter. Wichtig: Die «Fuck You»-Karte darf durch Spezialkarten nur vom Gegner verdeckt ergattert und nicht bewusst an einen Mitspieler weitergegeben werden. Ausnahme: Bei Ereigniskarten darf sie weitergegeben oder abgelegt werden.
 
 MIMICRY
- 1 Stück (farbneutral)Wer «Mimicry» ausspielt, kann damit jede bestehe-nde Spezialkarte imitieren.Wichtig: Übernimmt «Mimicry» die Funktion einer farbabhängigen Spezialkarte, so kann diese nur auf die jeweilige Farbe gespielt werden (z.B. rote «Gift»-Karte auf Rot).
+Wer «Mimicry» ausspielt, kann damit jede bestehende Spezialkarte imitieren.Wichtig: Übernimmt «Mimicry» die Funktion einer farbabhängigen Spezialkarte, so kann diese nur auf die jeweilige Farbe gespielt werden (z.B. rote «Gift»-Karte auf Rot).
 
 EREIGNISKARTEN
-Ereigniskarten werden immer dann aktiv, wenn eine Schwarze Karte gespielt wird. Sobald dies geschieht, wird die oberste Karte vom Ereigniskarten-Stapel aufgedeckt und ausgeführt. Die erstbetroffene Person ist immer der Spieler rechts vom Urheber der Schwarzen Karte. Sofern als Zielperson mehrere Mitspieler in Frage kommen, so betrifft es jene Person, die in der Spielrichtung näher am Urheber der Schwarzen Karte sitzt. Ausser es ist speziell deklariert.Wichtig: Die Spielrunde ist erst zu Ende, nachdem das Er-eignis komplett ausgeführt wurde. Wenn jemand durch ein Ereignis alle seine Handkarten loswird, kann «Nice Try» trotzdem eingesetzt werden.
+Ereigniskarten werden immer dann aktiv, wenn eine Schwarze Karte gespielt wird. Sobald dies geschieht, wird die oberste Karte vom Ereigniskarten-Stapel aufgedeckt und ausgeführt. Die erstbetroffene Person ist immer der Spieler rechts vom Urheber der Schwarzen Karte. Sofern als Zielperson mehrere Mitspieler in Frage kommen, so betrifft es jene Person, die in der Spielrichtung näher am Urheber der Schwarzen Karte sitzt. Ausser es ist speziell deklariert.Wichtig: Die Spielrunde ist erst zu Ende, nachdem das Ereignis komplett ausgeführt wurde. Wenn jemand durch ein Ereignis alle seine Handkarten loswird, kann «Nice Try» trotzdem eingesetzt werden.
 
 BLACK HOLE
 Wer das Ereignis ausgelöst hat, erhält alle in den Händen der Mitspielerinnen vorhandenen Schwarzen Karten.
 
 CAPITALISM
-Wer hat, dem wird gegeben. Alle Spielerinnen ver-doppeln ihre Handkarten.
+Wer hat, dem wird gegeben. Alle Spielerinnen verdoppeln ihre Handkarten.
 
 CHARITY
-Jeder Spieler zieht vom Mitspieler mit den meisten Karten auf der Hand eine Karte.Wichtig: Bei Kartengleichstand wird von allen Spiel-ern mit den meisten Karten je eine gezogen. Sofern mehrere Spieler die meisten Karten besitzen, müs-sen diese nicht voneinander eine Karte ziehen.
+Jeder Spieler zieht vom Mitspieler mit den meisten Karten auf der Hand eine Karte.Wichtig: Bei Kartengleichstand wird von allen Spielern mit den meisten Karten je eine gezogen. Sofern mehrere Spieler die meisten Karten besitzen, müssen diese nicht voneinander eine Karte ziehen.
 
 COMMUNISM
 Alle Spieler müssen ihre Handkarten auf die gleiche Anzahl wie der Spieler mit meisten Handkarten ergänzen.
 
 DISTRIBUTOR
-Alle Spielerinnen legen ihre Handkarten als Stapel verdeckt vor die Person, welche das Ereignis aus-gelöst hat. Diese schaut sich alle Kartendecks an und verteilt sie neu an die Mitspielerinnen ohne sie zu vermischen. Diese Person darf dabei ihre eigenen Handkarten nicht behalten. (Somit erhält z.B. Spieler-in A die Karten von Spieler B, B die von C etc.)
+Alle Spielerinnen legen ihre Handkarten als Stapel verdeckt vor die Person, welche das Ereignis ausgelöst hat. Diese schaut sich alle Kartendecks an und verteilt sie neu an die Mitspielerinnen ohne sie zu vermischen. Diese Person darf dabei ihre eigenen Handkarten nicht behalten. (Somit erhält z.B. Spielerin A die Karten von Spieler B, B die von C etc.)
 
 DOOMSDAY
-Die Spielrunde ist sofort beendet. Alle Spieler erh-alten 50 Punkte.
+Die Spielrunde ist sofort beendet. Alle Spieler erhalten 50 Punkte.
 
 DOUBLE TAXATION
-Alle Spielerinnen müssen die Punkte ihrer drei höch-sten Handkarten zusammenzählen. Diese werden dem Kontostand umgehend angerechnet. Das Spiel geht danach normal weiter.» Werden keine Punkte aufgeschrieben: Wer mit den höchsten drei Handkarten die wenigsten Punkte auf der Hand hält, nimmt 1 Karte auf, wer die zweitwenig-sten hat, nimmt 2 Karten auf usw. Bei Punktegleich-stand müssen die Betroffenen je gleich viele Karten ziehen.
+Alle Spielerinnen müssen die Punkte ihrer drei höchsten Handkarten zusammenzählen. Diese werden dem Kontostand umgehend angerechnet. Das Spiel geht danach normal weiter.» Werden keine Punkte aufgeschrieben: Wer mit den höchsten drei Handkarten die wenigsten Punkte auf der Hand hält, nimmt 1 Karte auf, wer die zweitwenigsten hat, nimmt 2 Karten auf usw. Bei Punktegleichstand müssen die Betroffenen je gleich viele Karten ziehen.
 
 CROWDFUNDING
-Jeder muss der Person mit den wenigsten Handkarten eine Karte schenken.Wichtig: Bei Kartengleichstand wird allen Spielerin-nen mit den wenigsten Karten je eine geschenkt. Sofern mehrere Spielerinnen die wenigsten Karten besitzen, müssen sich diese nicht gegenseitig eine Karte schenken.
+Jeder muss der Person mit den wenigsten Handkarten eine Karte schenken.Wichtig: Bei Kartengleichstand wird allen Spielerinnen mit den wenigsten Karten je eine geschenkt. Sofern mehrere Spielerinnen die wenigsten Karten besitzen, müssen sich diese nicht gegenseitig eine Karte schenken.
 
 EARTHQUAKE
-Jeder Spieler gibt seine Handkarten dem Spieler re-chts von ihm weiter.
+Jeder Spieler gibt seine Handkarten dem Spieler rechts von ihm weiter.
 
 EVENT MANAGER
-Es werden die obersten drei Karten vom Ereigni-skarten-Stapel aufgedeckt. Die Person, die das Er-eignis ausgelöst hat, wählt eines dieser Ereignisse aus, welches dann ausgeführt wird.
+Es werden die obersten drei Karten vom Ereigniskarten-Stapel aufgedeckt. Die Person, die das Ereignis ausgelöst hat, wählt eines dieser Ereignisse aus, welches dann ausgeführt wird.
 
 SEPPUKU
-Die Spielerinnen entscheiden sich der Reihe nach, ob sie Seppuku begehen wollen. Wer dies riskiert, deckt die oberste Karte vom Stapel auf. Ist diese Karte eine Zahlenkarte, werden sogleich 21 Punkte vom Punktekonto abgezogen. Sollte es eine andere Karte sein, werden zusätzliche 42 Punkte aufge-brummt. Wer sich dazu entscheidet, es nicht zu riskieren, erhält 21 Punkte.» Werden keine Punkte aufgeschrieben: Falls eine Zahlenkarte gezogen wird, können zwei beliebige Karten abgeworfen werden. Sollte es eine andere Karte sein, müssen vier Karten vom Stapel gezogen werden. Wer sich dazu entscheidet, es nicht zu risk-ieren, muss zwei Karten vom Stapel ziehen.
+Die Spielerinnen entscheiden sich der Reihe nach, ob sie Seppuku begehen wollen. Wer dies riskiert, deckt die oberste Karte vom Stapel auf. Ist diese Karte eine Zahlenkarte, werden sogleich 21 Punkte vom Punktekonto abgezogen. Sollte es eine andere Karte sein, werden zusätzliche 42 Punkte aufgebrummt. Wer sich dazu entscheidet, es nicht zu riskieren, erhält 21 Punkte.» Werden keine Punkte aufgeschrieben: Falls eine Zahlenkarte gezogen wird, können zwei beliebige Karten abgeworfen werden. Sollte es eine andere Karte sein, müssen vier Karten vom Stapel gezogen werden. Wer sich dazu entscheidet, es nicht zu riskieren, muss zwei Karten vom Stapel ziehen.
 
 SURPRISE PARTY
 Jeder Spieler muss einer Person seiner Wahl eine Karte aus seiner Hand schenken.
@@ -113,16 +113,16 @@ THIRD TIME LUCKY
 Alle Spieler ziehen drei Karten.
 
 TIME BOMB
-Nur noch drei Züge pro Spieler. Die Runde wird so-fort beendet, sobald ein Spieler zum vierten Mal an die Reihe kommen würde.Sollte ein Spieler vor Ablauf dieser Zeit alle Karten loswerden, so bekommt er zehn Punkte abgezogen. Alle anderen kassieren eine Strafe von zehn Punk-ten, zusätzlich zu den Karten auf der Hand.Wenn aber keiner während dieser Frist die Runde beenden kann, zählen alle Punkte doppelt.
+Nur noch drei Züge pro Spieler. Die Runde wird sofort beendet, sobald ein Spieler zum vierten Mal an die Reihe kommen würde.Sollte ein Spieler vor Ablauf dieser Zeit alle Karten loswerden, so bekommt er zehn Punkte abgezogen. Alle anderen kassieren eine Strafe von zehn Punkten, zusätzlich zu den Karten auf der Hand.Wenn aber keiner während dieser Frist die Runde beenden kann, zählen alle Punkte doppelt.
 
 TORNADO
-Die Handkarten aller Spieler werden zusammenge-legt, neu gemischt und vom Urheber möglichst gleichmässig der Reihe nach neu verteilt.
+Die Handkarten aller Spieler werden zusammengelegt, neu gemischt und vom Urheber möglichst gleichmässig der Reihe nach neu verteilt.
 
 TRUST FALL
 Die Spielerinnen wählen der Reihe nach eine beliebige Person, die ihnen zwei Karten schenken muss.
 
 VANDALISM
-Alle Spieler müssen von der zuletzt gespielten Far-benkarte alle gleichfarbigen Handkarten abwerfen (sowohl Zahl- als auch Spezialkarten).Ausnahme: Sofern noch keine Farbe gespielt wurde, ist das Ereignis wirkungslos.
+Alle Spieler müssen von der zuletzt gespielten Farbenkarte alle gleichfarbigen Handkarten abwerfen (sowohl Zahl- als auch Spezialkarten).Ausnahme: Sofern noch keine Farbe gespielt wurde, ist das Ereignis wirkungslos.
 
 EXPANSION
 Der Reihe nach ziehen die Spieler Karten vom Kartenstapel. Der erste Spieler zieht eine Karte, der zweite Spieler zieht zwei Karten, der Dritte drei und so weiter.
@@ -134,10 +134,10 @@ FRIDAY THE 13TH
 Es ist Freitag der Dreizehnte. Ein Massenmörder mit Hockey-Maske geht um... Aber nur im Film, denn es ist ein ganz normaler Freitag an dem nichts Aussergewöhnliches geschieht. Die Runde geht normal weiter.
 
 GAMBLING MAN
-Alle Spieler müssen von der zuletzt gespielten Farbe eine möglichst tiefe Zahlenkarte verdeckt auf den Tisch legen. Alle Karten werden gleichzeitig aufge-deckt. Der Spieler, welcher die höchste Zahl gespielt hat, muss alle Karten in seine Hand aufnehmen.Spieler, welche keine Zahlenkarte dieser Farbe auf der Hand halten, müssen zur Strafe zwei Karten ziehen.Ausnahme: Sofern noch keine Farbe gespielt wurde, ist das Ereignis wirkungslos.
+Alle Spieler müssen von der zuletzt gespielten Farbe eine möglichst tiefe Zahlenkarte verdeckt auf den Tisch legen. Alle Karten werden gleichzeitig aufgedeckt. Der Spieler, welcher die höchste Zahl gespielt hat, muss alle Karten in seine Hand aufnehmen.Spieler, welche keine Zahlenkarte dieser Farbe auf der Hand halten, müssen zur Strafe zwei Karten ziehen.Ausnahme: Sofern noch keine Farbe gespielt wurde, ist das Ereignis wirkungslos.
 
 IDENTITY THEFT
-Wer die meisten Punkte auf dem Konto hat, tauscht den eigenen Punktestand mit der Person, welche am wenigsten Punkte auf dem Konto hat.» Werden keine Punkte aufgeschrieben: Wer die Schwarze Karte gespielt hat, bestimmt zwei Opfer (auch sich selbst möglich), welche ihre Karten ver-deckt auf den Tisch legen und ihre Plätze tauschen müssen.
+Wer die meisten Punkte auf dem Konto hat, tauscht den eigenen Punktestand mit der Person, welche am wenigsten Punkte auf dem Konto hat.» Werden keine Punkte aufgeschrieben: Wer die Schwarze Karte gespielt hat, bestimmt zwei Opfer (auch sich selbst möglich), welche ihre Karten verdeckt auf den Tisch legen und ihre Plätze tauschen müssen.
 
 LAST CHANCE
 Jedes Mal wenn jemand die letzte Handkarte loswird, wird noch ein Ereignis ausgelöst.
@@ -146,7 +146,7 @@ MARKET
 Es werden so viele Karten, wie Spieler anwesend sind, vom Kartenstapel aufgedeckt. Dann müssen die Spieler der Reihe nach eine dieser Karten auf die Hand nehmen.
 
 MATING SEASON
-Alle Spieler müssen sämtliche Zahlenkarten-Kom-binationen, die sie auf der Hand halten, abwerfen. Als Kombinationen gelten Paare, Drillinge, Vierlinge usw. Die Farbe der Karten spielt dabei keine Rolle.
+Alle Spieler müssen sämtliche Zahlenkarten-Kombinationen, die sie auf der Hand halten, abwerfen. Als Kombinationen gelten Paare, Drillinge, Vierlinge usw. Die Farbe der Karten spielt dabei keine Rolle.
 
 MERRY CHRISTMAS
 Alle Spieler müssen sämtliche Handkarten unter den Mitspielern verschenken. Die Karten können beliebig aufgeteilt werden.
@@ -155,7 +155,7 @@ MEXICAN STANDOFF
 Alle Spieler verwerfen ihre Handkarten und ziehen der Reihe nach drei Karten vom Stapel.
 
 PLAGUE
-Es werden sofort zwei weitere Ereigniskarten der Reihe nach ausgeführt. Auch wenn die erste Ereign-iskarte die Runde beenden sollte oder jemand alle Karten loswird, wird das zweite Ereignis noch so gut wie möglich ausgeführt.
+Es werden sofort zwei weitere Ereigniskarten der Reihe nach ausgeführt. Auch wenn die erste Ereigniskarte die Runde beenden sollte oder jemand alle Karten loswird, wird das zweite Ereignis noch so gut wie möglich ausgeführt.
 
 PLUS ONE
 Für die aktuelle Runde gilt: Jedes Mal, wenn jemand Karten vom Stapel zieht, muss zu sätzlich eine weitere Karte gezogen werden.
@@ -164,7 +164,7 @@ RECESSION
 Der Reihe nach verwerfen die Spieler Karten aus ihrer Hand. Der erste Spieler verwirft eine Karte, der zweite Spieler verwirft zwei Karten, der Dritte drei und so weiter.
 
 REPEAT
-Wer die Schwarze Karte gespielt hat, muss ein Er-eignis erneut ausführen, welches bereits aufgedeckt wurde. Wichtig: Falls noch keine Ereigniskarte aufgedeckt wurde, ist das Ereignis wirkungslos.
+Wer die Schwarze Karte gespielt hat, muss ein Ereignis erneut ausführen, welches bereits aufgedeckt wurde. Wichtig: Falls noch keine Ereigniskarte aufgedeckt wurde, ist das Ereignis wirkungslos.
 
 ROBIN HOOD
 Der Spieler mit den wenigsten Karten muss seine Handkarten mit dem Spieler mit den meisten Karten tauschen.
