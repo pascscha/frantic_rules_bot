@@ -102,6 +102,9 @@ def event(bot, update):
         elif query == "/event shuffle":
             with open("generated.txt", "w+") as f:
                 f.write("")
+            bot.send_message(update.message.from_user.id,
+                                 text="All event cards have been shuffled again.",
+                                 parse_mode=telegram.ParseMode.HTML)
     except Exception as e:
         print("Error:", e)
 
