@@ -9,7 +9,11 @@ import random
 
 def start(bot, update):
     bot.send_message(update.message.from_user.id,
-                     text="Welcome, this is the Frantic Rule Bot. Simply type <code>/rule &lt;command name&gt;</code> and I will explain you how this card works. Type <code>/rule</code> To get a list of all available rules.",
+                     text="Welcome, this is the Frantic Rule Bot.\n"
+                     + "Type <code>/rule &lt;command name&gt;</code> and I will explain you how this card works.\n"
+                     + "Type <code>/rule</code> to get a list of all available rules.\n"
+                     + "Type <code>/event</code> to generate a random event card\n"
+                     + "Type <code>/event shuffle</code> to re-shuffle all event cards\n",
                      parse_mode=telegram.ParseMode.HTML)
 
 
@@ -103,8 +107,8 @@ def event(bot, update):
             with open("generated.txt", "w+") as f:
                 f.write("")
             bot.send_message(update.message.from_user.id,
-                                 text="All event cards have been shuffled again.",
-                                 parse_mode=telegram.ParseMode.HTML)
+                             text="All event cards have been shuffled again.",
+                             parse_mode=telegram.ParseMode.HTML)
     except Exception as e:
         print("Error:", e)
 
