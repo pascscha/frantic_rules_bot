@@ -62,7 +62,7 @@ TROUBLEMAKER
 Es wird sofort eine Ereignis ausgelöst.
 
 FUCK YOU
-Wer «Fuck You» auf der Hand hält, darf sie nur ablegen, wenn er inkl. der «Fuck You»-Karte exakt zehn Karten auf der Hand hat. Die Runde geht mit der vor der «Fuck You»-Karte gespielten Karte weiter. Wichtig: Die «Fuck You»-Karte darf durch Spezialkarten nur vom Gegner verdeckt ergattert und nicht bewusst an einen Mitspieler weitergegeben werden. Ausnahme: Bei Ereigniskarten darf sie weitergegeben oder abgelegt werden.
+Wer «Fuck You» auf der Hand hält, darf sie nur ablegen, wenn er inkl. der «Fuck You»-Karte exakt zehn Karten auf der Hand hat. Die Runde geht mit der vor der «Fuck You»-Karte gespielten Karte weiter. Wichtig: Die «Fuck You»-Karte darf durch Spezialkarten nur vom Gegner verdeckt ergattert und nicht bewusst an einen Mitspieler weitergegeben werden. Ausnahme: Bei Schwarzen Karten darf sie weitergegeben oder abgelegt werden.
 
 MIMICRY
 Wer «Mimicry» ausspielt, kann damit jede bestehende Spezialkarte imitieren.Wichtig: Übernimmt «Mimicry» die Funktion einer farbabhängigen Spezialkarte, so kann diese nur auf die jeweilige Farbe gespielt werden (z.B. rote «Gift»-Karte auf Rot).
@@ -160,6 +160,9 @@ Es werden sofort zwei weitere Ereigniskarten der Reihe nach ausgeführt. Auch we
 PLUS ONE
 Für die aktuelle Runde gilt: Jedes Mal, wenn jemand Karten vom Stapel zieht, muss zu sätzlich eine weitere Karte gezogen werden.
 
++1
+Für die aktuelle Runde gilt: Jedes Mal, wenn jemand Karten vom Stapel zieht, muss zu sätzlich eine weitere Karte gezogen werden.
+
 RECESSION
 Der Reihe nach verwerfen die Spieler Karten aus ihrer Hand. Der erste Spieler verwirft eine Karte, der zweite Spieler verwirft zwei Karten, der Dritte drei und so weiter.
 
@@ -171,3 +174,78 @@ Der Spieler mit den wenigsten Karten muss seine Handkarten mit dem Spieler mit d
 
 RUSSIAN ROULETTE
 Alle Spielerinnen müssen je eine beliebige Karte aus ihrer Hand zusammenlegen. Diese werden gemischt und auf den Kartenstapel gelegt. Das Spiel geht danach normal weiter.
+
+ALL DRAW ONE
+Alle Mitspielenden müssen eine Karte vom Nach­ ziehstapel ziehen. Wichtig: Die Person, die «All Draw One» aktiviert hat, ist von diesem Effekt nicht betroffen.
+
+ANTI COUNTER
+Der Effekt einer Spezialkarte, die zusammen mit «Anti Counter» gespielt wird, kann nicht mit «Counterattack» abgewehrt werden.
+
+BLACK WISH
+Es wird Schwarz als Farbe gewünscht. Die gespielte Handkarte kann nur von einer belie­ bigen Schwarzen Karte gedeckt oder mit einem anderen Farb- oder Zahlenwunsch überschrieben werden. Wichtig: Sobald die Karte gedeckt oder über- schrieben wurde, gelten wieder die normalen Spielregeln.
+
+COLOUR BLOCKADE
+Wer «Colour Blockade» aktiviert, wählt eine Far- be. Diese darf nun so lange nicht mehr bedient werden, bis die Person, die «Colour Blockade» aktiviert hat, ihren nächsten Zug beendet hat. Aussetzen zählt auch als Spielzug. Wichtig: Dieser Effekt gilt für alle. Somit darf die Person, welche diese Powerkarte aktiviert hat, die blockierte Farbe in ihrem nächsten Zug ebenfalls nicht bedienen.
+
+LOOPING
+Sobald die Person, die «Looping» aktiviert hat, ihren Zug beendet, geht es in die andere Spiel- richtung weiter. Sobald die Person, die «Looping» aktiviert hat, ihren nächsten Spielzug beendet hat, dreht die Spielrichtung erneut. Wichtig: Aussetzen zählt auch als Spielzug.2 5 4 8
+
+NUMBER WISH
+Wer «Number Wish» aktiviert, wünscht sich eine Zahl. Wichtig: «Number Wish» überschreibt bestehen­ de Farb- oder Zahlenwünsche.
+
+OPEN HANDS
+Alle Mitspielenden müssen so lange mit offenen Handkarten spielen, bis die Person, die «Open Hands» aktiviert hat, wieder zum Zug kommt. Aussetzen zählt auch als Spielzug. Wichtig: Die Person, die «Open Hands» aktiviert hat, ist von diesem Effekt nicht betroffen. + ?
+
+RANDOM CHANCE
+Wer «Random Chance» aktiviert, spielt eine zusätzliche Handkarte. Die zusätzliche Karte kann beliebig gewählt werden und muss nicht auf die bereits liegende Karte passen. Das Spiel geht mit dieser zusätzlichen Karte weiter. Wichtig: «Curse» darf nicht gespielt werden. «Fuck You» und «The End» dürfen nur gespielt werden, wenn ihre Bedingungen gemäss Regeln erfüllt sind.
+
+RECYCLING von Daniel Bucher
+Die soeben gespielte Handkarte muss wieder auf die Hand genommen werden. Die Person, die «Recycling» aktiviert hat, bestimmt von wem. Man kann die Karte auch selbst wieder aufnehmen. Wichtig: Das Spiel geht weiter, als ob die Hand- karte nicht gespielt worden wäre. Allfällige Farb- oder Zahlenwünsche der Handkarte bleiben aber bestehen.
+
+SPECIAL CHARGE
+Wer «Special Charge» aktiviert, wählt einen Mitspielenden aus. Diese Person muss für jede Spezialkarte auf der eigenen Hand eine Karte vom Nachziehstapel ziehen.
+
+SPECIAL SEAL
+Alle Spieler*innen dürfen so lange keine Spezial­ karten spielen, bis die Person, die «Special Seal» aktiviert hat, wieder zum Zug kommt. Aussetzen zählt auch als Spielzug. Wichtig: Da der Effekt dieser Powerkarte vor dem Handkarten-Effekt ausgeführt wird, kann sie nicht zusammen mit einer Spezialkarte aktiviert werden.
+
+TROUBLECHARGER
+Wer «Troublecharger» aktiviert, löst am Ende des eigenen Spielzuges ein Ereignis aus. Wichtig: Wenn diese Karte in Kombination mit «Troublemaker» oder einer Schwarzen Karte akti­ viert wird, werden der Reihe nach 2 Ereignisse ausgelöst.
+
+RECHARGE
+Wer «Recharge» spielt, darf eine vor sich lie­gende, aufgedeckte Powerkarte wieder zude­cken. Diese Powerkarte kann nun erneut benutzt werden. Wichtig: Diese Aktion ist nicht für Powerkarten möglich, die im selben Zug aktiviert werden.
+
+EDISON
+Wer «Edison» spielt, darf eine Powerkarte zwi­ schen zwei beliebigen Spieler*innen austau­ schen. Beide getauschten Karten werden/bleiben nach dieser Aktion zugedeckt. » Und/oder Farbwünscher!
+
+UPDATE
+Wer «Update» spielt, zieht verdeckt eine Karte vom Powerkarten-Stapel und legt sie verdeckt vor sich ab. Man mischt danach eine seiner alten Powerkarten zurück in den Stapel. Dabei spielt es keine Rolle, ob diese Powerkarte bereits aktiviert wurde oder nicht. » Und/oder Farbwünscher!
+
+LE FIN
+Diese Karte kann nur als letzte Handkarte aus- gespielt, aber dafür auf jede beliebige Karte gelegt werden. Falls jemand mit «The End» das Spiel beendet, kann «Nice Try» nicht gespielt werden. Ausserdem werden sämtliche aktiven Ereignisse (z. B. Time Bomb, Last Chance etc.) abgebrochen und ignoriert. «The End» darf während einer Spielrunde jeder- zeit getauscht oder verschenkt werden. Sie zählt am Ende einer Runde 17 Punkte. Wichtig: «Mimicry» kann diese Karte nicht imi­ tieren. Es können bei dieser Karte keine Power- karten aktiviert werden.
+
+BLACK JACK
+Der Reihe nach decken die Spieler*innen jeweils die oberste Karte vom Nachziehstapel auf, legen sie auf einen separaten Stapel und addieren laut die Punkte der aufgedeckten Karten. Die Person, die mit ihrer aufgedeckten Karte den totalen Punktewert von 21 überschreitet, muss sämtli- che aufgedeckten Karten auf die Hand nehmen.
+
+CHARGENADO
+Alle auf dem Tisch liegenden Powerkarten werden zurück in den Powerkarten-Stapel ge­mischt. An- schliessend erhalten alle Spieler*innen zwei neue Powerkarten verdeckt vom Stapel.
+
+EPIC FAIL
+Die Person mit den wenigsten Handkarten er- hält sofort die «Fuck You»-Karte, egal wo sich diese gerade befindet. Falls nötig, wird die «Fuck You»-Karte aus dem Nachziehstapel oder dem Ablagestapel herausgesucht. Der Nachziehstapel wird gegebenenfalls neu gemischt.
+
+LOOT
+Der Reihe nach ziehen alle Spieler*innen 3 Hand- karten verdeckt von der Person rechts von ihnen. Gezogene Karten werden erst nach dem Ereignis auf die Hand genommen.
+
+PARASITE
+Sobald jemand die Runde gewinnt, darf die Per- son links von ihm/ihr zwei beliebige Handkarten abwerfen, bevor die Punkte gezählt werden.
+
+REWIND
+Der Reihe nach zieht jede*r Spieler*in die jeweils oberste Karte vom Ablagestapel bis alle total 2 Karten gezogen haben. Anschliessend wird die oberste Karte vom Nachziehstapel aufgedeckt. Auf diese Karte wird nun weitergespielt. Wichtig: Handelt es sich bei der nachträglich aufgedeckten Karte um eine Spezialkarte, kann die Person, die das Ereignis ausgelöst hat, den Effekt ausführen.
+
+RIOT
+Alle Spieler*innen geben ihre Spezialkarten an die Person rechts von ihnen weiter. Erhaltene Spezialkarten werden erst nach dem Ereignis auf die Hand genommen.
+
+TSUNAMI
+Die erste Person in Spielrichtung legt eine belie­ bige Karte offen vor sich ab. Die nächste Person muss nun eine beliebige Karte mit einem gleich hohen oder höheren Punktewert vor sich ablegen. Dieser Vorgang wird so lange wiederholt, bis je- mand keine passende Karte mehr spielen kann. Diese Person muss alle abgelegten Karten auf die Hand nehmen.
+
+SUPERCHARGE
+Alle Mitspielenden erhalten verdeckt eine zusätz­ liche Powerkarte.s
