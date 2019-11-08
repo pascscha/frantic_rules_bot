@@ -26,7 +26,7 @@ def rule(bot, update):
                 title, rule = r.split("\n")
                 rules[title.lower()] = rule
         query = update.message.text.lower()
-        # Remove "/vote " so that we only get command argument
+        # Remove "/rule " so that we only get command argument
         if query == "/rule":
             out = "Usage: /rule &lt;command name&gt;\nAvailable rules:\n"
             for rule in rules.keys():
@@ -124,4 +124,5 @@ if __name__ == "__main__":
     dispatcher.add_handler(CommandHandler('pdf', pdf))
     dispatcher.add_handler(CommandHandler('start', start))
     dispatcher.add_handler(CommandHandler('event', event))
+    dispatcher.add_handler(MessageHandler(Filters.all, rule))
     updater.start_polling()
